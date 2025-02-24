@@ -1,10 +1,14 @@
-# HarmonyFlow: A Modern Qigong Learning Experience
+<div align="center">
+  <img src="logo.jpg" width="200" alt="HarmonyFlow Logo" style="border-radius: 25px"/>
+</div>
 
+# HarmonyFlow: A Modern Qigong Learning Experience
 <div align="center">
   <img src="Cover_1.png" width="250" alt="HarmonyFlow Cover 1" />
   <img src="Cover_2.png" width="250" alt="HarmonyFlow Cover 2" />
   <img src="Cover_3.png" width="250" alt="HarmonyFlow Cover 3" />
 </div>
+
 
 ## User Experience Design
 
