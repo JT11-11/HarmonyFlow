@@ -1,5 +1,11 @@
 # HarmonyFlow: A Modern Qigong Learning Experience
 
+<div align="center">
+  <img src="Cover_1.png" width="250" alt="HarmonyFlow Cover 1" />
+  <img src="Cover_2.png" width="250" alt="HarmonyFlow Cover 2" />
+  <img src="Cover_3.png" width="250" alt="HarmonyFlow Cover 3" />
+</div>
+
 ## User Experience Design
 
 HarmonyFlow was designed to create an accessible, guided journey into the practice of Qigong. The app focuses on providing a serene, intuitive learning environment while maintaining authentic traditional practices.
